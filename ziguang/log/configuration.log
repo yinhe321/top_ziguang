@@ -1,0 +1,1141 @@
+[Info] [2023-11-14 12:19:08] /***************************Start Configuration***************************/
+[Info] [2023-11-14 12:19:08] Path: D:/pango/PDS_2022.1/bin
+[Info] [2023-11-14 12:19:08] Version: 99559
+[Info] [2023-11-14 12:19:09] Current Path: D:/pango_projection/ziguang
+[Info] [2023-11-14 12:19:09] PDS Dir Path: D:/pango_projection/ziguang
+[Info] [2023-11-14 12:19:11] Configuration is not connect with server. connect first then scan chain.
+[Debug] [2023-11-14 12:19:11] Client Local host name:DESKTOP-AN3SH4R
+[Debug] [2023-11-14 12:19:11] Client Local Address:192.168.124.49
+[Debug] [2023-11-14 12:19:11] Server Address:127.0.0.1, Port:65420
+[Info] [2023-11-14 12:19:12] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2023-11-14 12:19:12] Finish.
+[Info] [2023-11-14 12:19:12] Connect server succeeded
+[Debug] [2023-11-14 12:19:12] Send RPC:1
+[Debug] [2023-11-14 12:19:12] Send cmd [check version information:40005] OK
+[Debug] [2023-11-14 12:19:13] Send RPC:2
+[Debug] [2023-11-14 12:19:13] Send cmd [get_cable_paras:40011] OK
+[Debug] [2023-11-14 12:19:13] Begin to send initialize chain cmd...
+[Debug] [2023-11-14 12:19:13] Send RPC:3
+[Debug] [2023-11-14 12:19:13] Send cmd [Open config cable:20001] OK
+[Debug] [2023-11-14 12:19:13] End to send initialize chain cmd.
+[Debug] [2023-11-14 12:19:13] COMMAND[check version information] execute successfully, takes 1.6 secs.
+[Debug] [2023-11-14 12:19:15] COMMAND[get_cable_paras] execute successfully, takes 1.8 secs.
+[Debug] [2023-11-14 12:19:16] begin the exec of open cable cmd...
+[Debug] [2023-11-14 12:19:16] Begin to deal with chain from server...
+[Debug] [2023-11-14 12:19:16] Begin to set user chain...
+[Debug] [2023-11-14 12:19:16] End to set user chain.
+[Debug] [2023-11-14 12:19:16] Begin to update graphic item and tree item ...
+[Debug] [2023-11-14 12:19:16] End to update graphic item and tree item ...
+[Info] [2023-11-14 12:19:23] set OpenLastPath: D:/pango_projection/ziguang/generate_bitstream/top.sbit
+[Debug] [2023-11-14 12:19:23] begin to get device info from CFG file...
+[Debug] [2023-11-14 12:19:23] end to get device info from CFG file...
+[Debug] [2023-11-14 12:19:23] Begin to update graphic item and tree item ...
+[Debug] [2023-11-14 12:19:23] End to update graphic item and tree item ...
+[Debug] [2023-11-14 12:19:23] End to deal wiht chain from server.
+[Debug] [2023-11-14 12:19:23] end the exec of open cable cmd.
+[Debug] [2023-11-14 12:19:23] COMMAND[Open config cable] execute successfully, takes 10.1 secs.
+[Debug] [2023-11-14 12:19:25] Begin to send programming cmd...
+[Debug] [2023-11-14 12:19:25] Send RPC:4
+[Debug] [2023-11-14 12:19:25] Begin to send program data.
+[Debug] [2023-11-14 12:19:25] End to send program data.
+[Debug] [2023-11-14 12:19:25] Send cmd [Program:20002] OK
+[Debug] [2023-11-14 12:19:25] The value of Progress is 6
+[Debug] [2023-11-14 12:19:25] The value of Progress is 10
+[Debug] [2023-11-14 12:19:25] The value of Progress is 15
+[Debug] [2023-11-14 12:19:26] The value of Progress is 20
+[Debug] [2023-11-14 12:19:26] The value of Progress is 25
+[Debug] [2023-11-14 12:19:26] The value of Progress is 30
+[Debug] [2023-11-14 12:19:26] The value of Progress is 35
+[Debug] [2023-11-14 12:19:26] The value of Progress is 40
+[Debug] [2023-11-14 12:19:26] The value of Progress is 45
+[Debug] [2023-11-14 12:19:26] The value of Progress is 50
+[Debug] [2023-11-14 12:19:26] The value of Progress is 55
+[Debug] [2023-11-14 12:19:26] The value of Progress is 60
+[Debug] [2023-11-14 12:19:26] The value of Progress is 65
+[Debug] [2023-11-14 12:19:26] The value of Progress is 70
+[Debug] [2023-11-14 12:19:27] The value of Progress is 75
+[Debug] [2023-11-14 12:19:27] The value of Progress is 80
+[Debug] [2023-11-14 12:19:27] The value of Progress is 85
+[Debug] [2023-11-14 12:19:27] The value of Progress is 90
+[Debug] [2023-11-14 12:19:27] The value of Progress is 95
+[Debug] [2023-11-14 12:19:27] The value of Progress is 100
+[Debug] [2023-11-14 12:19:27] COMMAND[Program] execute successfully, takes 2.3 secs.
+[Debug] [2023-11-14 12:19:27] End to send programming cmd.
+[Info] [2023-11-14 12:20:01] /***************************End Configration***************************/
+[Info] [2023-11-14 12:31:40] /***************************Start Configuration***************************/
+[Info] [2023-11-14 12:31:40] Path: D:/pango/PDS_2022.1/bin
+[Info] [2023-11-14 12:31:40] Version: 99559
+[Info] [2023-11-14 12:31:41] Current Path: D:/pango_projection/ziguang
+[Info] [2023-11-14 12:31:41] PDS Dir Path: D:/pango_projection/ziguang
+[Info] [2023-11-14 12:31:45] Configuration is not connect with server. connect first then scan chain.
+[Debug] [2023-11-14 12:31:45] Client Local host name:DESKTOP-AN3SH4R
+[Debug] [2023-11-14 12:31:45] Client Local Address:192.168.1.102
+[Debug] [2023-11-14 12:31:45] Client Local Address:192.168.124.49
+[Debug] [2023-11-14 12:31:45] Server Address:127.0.0.1, Port:65420
+[Info] [2023-11-14 12:31:45] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2023-11-14 12:31:45] Finish.
+[Info] [2023-11-14 12:31:45] Connect server succeeded
+[Debug] [2023-11-14 12:31:45] Send RPC:1
+[Debug] [2023-11-14 12:31:45] Send cmd [check version information:40005] OK
+[Debug] [2023-11-14 12:31:47] Send RPC:2
+[Debug] [2023-11-14 12:31:47] Send cmd [get_cable_paras:40011] OK
+[Debug] [2023-11-14 12:31:47] Begin to send initialize chain cmd...
+[Debug] [2023-11-14 12:31:47] Send RPC:3
+[Debug] [2023-11-14 12:31:47] Send cmd [Open config cable:20001] OK
+[Debug] [2023-11-14 12:31:47] End to send initialize chain cmd.
+[Debug] [2023-11-14 12:31:47] COMMAND[check version information] execute successfully, takes 1.5 secs.
+[Debug] [2023-11-14 12:31:49] COMMAND[get_cable_paras] execute successfully, takes 1.8 secs.
+[Debug] [2023-11-14 12:31:50] begin the exec of open cable cmd...
+[Debug] [2023-11-14 12:31:50] Begin to deal with chain from server...
+[Debug] [2023-11-14 12:31:50] Begin to set user chain...
+[Debug] [2023-11-14 12:31:50] End to set user chain.
+[Debug] [2023-11-14 12:31:50] Begin to update graphic item and tree item ...
+[Debug] [2023-11-14 12:31:50] End to update graphic item and tree item ...
+[Info] [2023-11-14 12:31:52] set OpenLastPath: D:/pango_projection/ziguang/generate_bitstream/top.sbit
+[Debug] [2023-11-14 12:31:52] begin to get device info from CFG file...
+[Debug] [2023-11-14 12:31:52] end to get device info from CFG file...
+[Debug] [2023-11-14 12:31:52] Begin to update graphic item and tree item ...
+[Debug] [2023-11-14 12:31:52] End to update graphic item and tree item ...
+[Debug] [2023-11-14 12:31:52] End to deal wiht chain from server.
+[Debug] [2023-11-14 12:31:52] end the exec of open cable cmd.
+[Debug] [2023-11-14 12:31:52] COMMAND[Open config cable] execute successfully, takes 4.8 secs.
+[Debug] [2023-11-14 12:31:53] Begin to send programming cmd...
+[Debug] [2023-11-14 12:31:53] Send RPC:4
+[Debug] [2023-11-14 12:31:53] Begin to send program data.
+[Debug] [2023-11-14 12:31:53] End to send program data.
+[Debug] [2023-11-14 12:31:53] Send cmd [Program:20002] OK
+[Debug] [2023-11-14 12:31:54] The value of Progress is 6
+[Debug] [2023-11-14 12:31:54] The value of Progress is 10
+[Debug] [2023-11-14 12:31:54] The value of Progress is 15
+[Debug] [2023-11-14 12:31:54] The value of Progress is 20
+[Debug] [2023-11-14 12:31:54] The value of Progress is 25
+[Debug] [2023-11-14 12:31:54] The value of Progress is 30
+[Debug] [2023-11-14 12:31:54] The value of Progress is 35
+[Debug] [2023-11-14 12:31:54] The value of Progress is 40
+[Debug] [2023-11-14 12:31:54] The value of Progress is 45
+[Debug] [2023-11-14 12:31:54] The value of Progress is 50
+[Debug] [2023-11-14 12:31:55] The value of Progress is 55
+[Debug] [2023-11-14 12:31:55] The value of Progress is 60
+[Debug] [2023-11-14 12:31:55] The value of Progress is 65
+[Debug] [2023-11-14 12:31:55] The value of Progress is 70
+[Debug] [2023-11-14 12:31:55] The value of Progress is 75
+[Debug] [2023-11-14 12:31:55] The value of Progress is 80
+[Debug] [2023-11-14 12:31:55] The value of Progress is 85
+[Debug] [2023-11-14 12:31:55] The value of Progress is 90
+[Debug] [2023-11-14 12:31:55] The value of Progress is 95
+[Debug] [2023-11-14 12:31:55] The value of Progress is 100
+[Debug] [2023-11-14 12:31:56] COMMAND[Program] execute successfully, takes 2.3 secs.
+[Debug] [2023-11-14 12:31:56] End to send programming cmd.
+[Debug] [2023-11-14 12:32:13] Begin to send programming cmd...
+[Debug] [2023-11-14 12:32:13] Send RPC:5
+[Debug] [2023-11-14 12:32:13] Begin to send program data.
+[Debug] [2023-11-14 12:32:13] End to send program data.
+[Debug] [2023-11-14 12:32:13] Send cmd [Program:20002] OK
+[Debug] [2023-11-14 12:32:13] The value of Progress is 6
+[Debug] [2023-11-14 12:32:13] The value of Progress is 10
+[Debug] [2023-11-14 12:32:14] The value of Progress is 15
+[Debug] [2023-11-14 12:32:14] The value of Progress is 20
+[Debug] [2023-11-14 12:32:14] The value of Progress is 25
+[Debug] [2023-11-14 12:32:14] The value of Progress is 30
+[Debug] [2023-11-14 12:32:14] The value of Progress is 35
+[Debug] [2023-11-14 12:32:14] The value of Progress is 40
+[Debug] [2023-11-14 12:32:14] The value of Progress is 45
+[Debug] [2023-11-14 12:32:14] The value of Progress is 50
+[Debug] [2023-11-14 12:32:14] The value of Progress is 55
+[Debug] [2023-11-14 12:32:14] The value of Progress is 60
+[Debug] [2023-11-14 12:32:14] The value of Progress is 65
+[Debug] [2023-11-14 12:32:15] The value of Progress is 70
+[Debug] [2023-11-14 12:32:15] The value of Progress is 75
+[Debug] [2023-11-14 12:32:15] The value of Progress is 80
+[Debug] [2023-11-14 12:32:15] The value of Progress is 85
+[Debug] [2023-11-14 12:32:15] The value of Progress is 90
+[Debug] [2023-11-14 12:32:15] The value of Progress is 95
+[Debug] [2023-11-14 12:32:15] The value of Progress is 100
+[Debug] [2023-11-14 12:32:15] COMMAND[Program] execute successfully, takes 2.3 secs.
+[Debug] [2023-11-14 12:32:15] End to send programming cmd.
+[Info] [2023-11-14 12:35:03] /***************************End Configration***************************/
+[Info] [2023-11-14 15:36:45] /***************************Start Configuration***************************/
+[Info] [2023-11-14 15:36:45] Path: D:/pango/PDS_2022.1/bin
+[Info] [2023-11-14 15:36:45] Version: 99559
+[Info] [2023-11-14 15:36:46] Current Path: D:/pango_projection/ziguang
+[Info] [2023-11-14 15:36:46] PDS Dir Path: D:/pango_projection/ziguang
+[Info] [2023-11-14 15:36:49] Configuration is not connect with server. connect first then scan chain.
+[Debug] [2023-11-14 15:36:49] Client Local host name:DESKTOP-AN3SH4R
+[Debug] [2023-11-14 15:36:49] Client Local Address:192.168.124.49
+[Debug] [2023-11-14 15:36:49] Server Address:127.0.0.1, Port:65420
+[Info] [2023-11-14 15:36:50] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2023-11-14 15:36:50] Finish.
+[Info] [2023-11-14 15:36:50] Connect server succeeded
+[Debug] [2023-11-14 15:36:50] Send RPC:1
+[Debug] [2023-11-14 15:36:50] Send cmd [check version information:40005] OK
+[Debug] [2023-11-14 15:36:51] Send RPC:2
+[Debug] [2023-11-14 15:36:51] Send cmd [get_cable_paras:40011] OK
+[Debug] [2023-11-14 15:36:51] Begin to send initialize chain cmd...
+[Debug] [2023-11-14 15:36:51] Send RPC:3
+[Debug] [2023-11-14 15:36:51] Send cmd [Open config cable:20001] OK
+[Debug] [2023-11-14 15:36:51] End to send initialize chain cmd.
+[Debug] [2023-11-14 15:36:51] COMMAND[check version information] execute successfully, takes 1.5 secs.
+[Debug] [2023-11-14 15:36:53] COMMAND[get_cable_paras] execute successfully, takes 1.9 secs.
+[Debug] [2023-11-14 15:36:54] begin the exec of open cable cmd...
+[Debug] [2023-11-14 15:36:54] Begin to deal with chain from server...
+[Debug] [2023-11-14 15:36:54] Begin to set user chain...
+[Debug] [2023-11-14 15:36:54] End to set user chain.
+[Debug] [2023-11-14 15:36:54] Begin to update graphic item and tree item ...
+[Debug] [2023-11-14 15:36:54] End to update graphic item and tree item ...
+[Info] [2023-11-14 15:36:56] set OpenLastPath: D:/pango_projection/ziguang/generate_bitstream/top.sbit
+[Debug] [2023-11-14 15:36:56] begin to get device info from CFG file...
+[Debug] [2023-11-14 15:36:56] end to get device info from CFG file...
+[Debug] [2023-11-14 15:36:56] Begin to update graphic item and tree item ...
+[Debug] [2023-11-14 15:36:56] End to update graphic item and tree item ...
+[Debug] [2023-11-14 15:36:56] End to deal wiht chain from server.
+[Debug] [2023-11-14 15:36:56] end the exec of open cable cmd.
+[Debug] [2023-11-14 15:36:56] COMMAND[Open config cable] execute successfully, takes 4.6 secs.
+[Debug] [2023-11-14 15:36:57] Begin to send programming cmd...
+[Debug] [2023-11-14 15:36:57] Send RPC:4
+[Debug] [2023-11-14 15:36:57] Begin to send program data.
+[Debug] [2023-11-14 15:36:57] End to send program data.
+[Debug] [2023-11-14 15:36:57] Send cmd [Program:20002] OK
+[Debug] [2023-11-14 15:36:58] The value of Progress is 6
+[Debug] [2023-11-14 15:36:58] The value of Progress is 10
+[Debug] [2023-11-14 15:36:58] The value of Progress is 15
+[Debug] [2023-11-14 15:36:58] The value of Progress is 20
+[Debug] [2023-11-14 15:36:58] The value of Progress is 25
+[Debug] [2023-11-14 15:36:58] The value of Progress is 30
+[Debug] [2023-11-14 15:36:58] The value of Progress is 35
+[Debug] [2023-11-14 15:36:58] The value of Progress is 40
+[Debug] [2023-11-14 15:36:58] The value of Progress is 45
+[Debug] [2023-11-14 15:36:58] The value of Progress is 50
+[Debug] [2023-11-14 15:36:58] The value of Progress is 55
+[Debug] [2023-11-14 15:36:59] The value of Progress is 60
+[Debug] [2023-11-14 15:36:59] The value of Progress is 65
+[Debug] [2023-11-14 15:36:59] The value of Progress is 70
+[Debug] [2023-11-14 15:36:59] The value of Progress is 75
+[Debug] [2023-11-14 15:36:59] The value of Progress is 80
+[Debug] [2023-11-14 15:36:59] The value of Progress is 85
+[Debug] [2023-11-14 15:36:59] The value of Progress is 90
+[Debug] [2023-11-14 15:36:59] The value of Progress is 95
+[Debug] [2023-11-14 15:36:59] The value of Progress is 100
+[Debug] [2023-11-14 15:36:59] COMMAND[Program] execute successfully, takes 2.3 secs.
+[Debug] [2023-11-14 15:36:59] End to send programming cmd.
+[Info] [2023-11-14 15:37:28] /***************************End Configration***************************/
+[Info] [2023-11-14 15:47:49] /***************************Start Configuration***************************/
+[Info] [2023-11-14 15:47:49] Path: D:/pango/PDS_2022.1/bin
+[Info] [2023-11-14 15:47:49] Version: 99559
+[Info] [2023-11-14 15:47:50] Current Path: D:/pango_projection/ziguang
+[Info] [2023-11-14 15:47:50] PDS Dir Path: D:/pango_projection/ziguang
+[Info] [2023-11-14 15:47:53] Configuration is not connect with server. connect first then scan chain.
+[Debug] [2023-11-14 15:47:53] Client Local host name:DESKTOP-AN3SH4R
+[Debug] [2023-11-14 15:47:53] Client Local Address:192.168.124.49
+[Debug] [2023-11-14 15:47:53] Server Address:127.0.0.1, Port:65420
+[Info] [2023-11-14 15:47:54] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2023-11-14 15:47:54] Finish.
+[Info] [2023-11-14 15:47:54] Connect server succeeded
+[Debug] [2023-11-14 15:47:54] Send RPC:1
+[Debug] [2023-11-14 15:47:54] Send cmd [check version information:40005] OK
+[Debug] [2023-11-14 15:47:55] Send RPC:2
+[Debug] [2023-11-14 15:47:55] Send cmd [get_cable_paras:40011] OK
+[Debug] [2023-11-14 15:47:55] Begin to send initialize chain cmd...
+[Debug] [2023-11-14 15:47:55] Send RPC:3
+[Debug] [2023-11-14 15:47:55] Send cmd [Open config cable:20001] OK
+[Debug] [2023-11-14 15:47:55] End to send initialize chain cmd.
+[Debug] [2023-11-14 15:47:55] COMMAND[check version information] execute successfully, takes 1.5 secs.
+[Debug] [2023-11-14 15:47:57] COMMAND[get_cable_paras] execute successfully, takes 1.9 secs.
+[Debug] [2023-11-14 15:47:58] begin the exec of open cable cmd...
+[Debug] [2023-11-14 15:47:58] Begin to deal with chain from server...
+[Debug] [2023-11-14 15:47:58] Begin to set user chain...
+[Debug] [2023-11-14 15:47:58] End to set user chain.
+[Debug] [2023-11-14 15:47:58] Begin to update graphic item and tree item ...
+[Debug] [2023-11-14 15:47:58] End to update graphic item and tree item ...
+[Info] [2023-11-14 15:48:00] set OpenLastPath: D:/pango_projection/ziguang/generate_bitstream/top.sbit
+[Debug] [2023-11-14 15:48:00] begin to get device info from CFG file...
+[Debug] [2023-11-14 15:48:00] end to get device info from CFG file...
+[Debug] [2023-11-14 15:48:00] Begin to update graphic item and tree item ...
+[Debug] [2023-11-14 15:48:00] End to update graphic item and tree item ...
+[Debug] [2023-11-14 15:48:00] End to deal wiht chain from server.
+[Debug] [2023-11-14 15:48:00] end the exec of open cable cmd.
+[Debug] [2023-11-14 15:48:00] COMMAND[Open config cable] execute successfully, takes 4.7 secs.
+[Debug] [2023-11-14 15:48:01] Begin to send programming cmd...
+[Debug] [2023-11-14 15:48:01] Send RPC:4
+[Debug] [2023-11-14 15:48:01] Begin to send program data.
+[Debug] [2023-11-14 15:48:01] End to send program data.
+[Debug] [2023-11-14 15:48:01] Send cmd [Program:20002] OK
+[Debug] [2023-11-14 15:48:02] The value of Progress is 6
+[Debug] [2023-11-14 15:48:02] The value of Progress is 10
+[Debug] [2023-11-14 15:48:02] The value of Progress is 15
+[Debug] [2023-11-14 15:48:02] The value of Progress is 20
+[Debug] [2023-11-14 15:48:02] The value of Progress is 25
+[Debug] [2023-11-14 15:48:02] The value of Progress is 30
+[Debug] [2023-11-14 15:48:02] The value of Progress is 35
+[Debug] [2023-11-14 15:48:02] The value of Progress is 40
+[Debug] [2023-11-14 15:48:02] The value of Progress is 45
+[Debug] [2023-11-14 15:48:03] The value of Progress is 50
+[Debug] [2023-11-14 15:48:03] The value of Progress is 55
+[Debug] [2023-11-14 15:48:03] The value of Progress is 60
+[Debug] [2023-11-14 15:48:03] The value of Progress is 65
+[Debug] [2023-11-14 15:48:03] The value of Progress is 70
+[Debug] [2023-11-14 15:48:03] The value of Progress is 75
+[Debug] [2023-11-14 15:48:03] The value of Progress is 80
+[Debug] [2023-11-14 15:48:03] The value of Progress is 85
+[Debug] [2023-11-14 15:48:03] The value of Progress is 90
+[Debug] [2023-11-14 15:48:03] The value of Progress is 95
+[Debug] [2023-11-14 15:48:03] The value of Progress is 100
+[Debug] [2023-11-14 15:48:04] COMMAND[Program] execute successfully, takes 2.3 secs.
+[Debug] [2023-11-14 15:48:04] End to send programming cmd.
+[Debug] [2023-11-14 15:56:12] Begin to send programming cmd...
+[Debug] [2023-11-14 15:56:12] Send RPC:5
+[Debug] [2023-11-14 15:56:12] Begin to send program data.
+[Debug] [2023-11-14 15:56:12] End to send program data.
+[Debug] [2023-11-14 15:56:12] Send cmd [Program:20002] OK
+[Debug] [2023-11-14 15:56:13] The value of Progress is 6
+[Debug] [2023-11-14 15:56:13] The value of Progress is 10
+[Debug] [2023-11-14 15:56:13] The value of Progress is 15
+[Debug] [2023-11-14 15:56:13] The value of Progress is 20
+[Debug] [2023-11-14 15:56:13] The value of Progress is 25
+[Debug] [2023-11-14 15:56:13] The value of Progress is 30
+[Debug] [2023-11-14 15:56:13] The value of Progress is 35
+[Debug] [2023-11-14 15:56:13] The value of Progress is 40
+[Debug] [2023-11-14 15:56:13] The value of Progress is 45
+[Debug] [2023-11-14 15:56:13] The value of Progress is 50
+[Debug] [2023-11-14 15:56:13] The value of Progress is 55
+[Debug] [2023-11-14 15:56:13] The value of Progress is 60
+[Debug] [2023-11-14 15:56:14] The value of Progress is 65
+[Debug] [2023-11-14 15:56:14] The value of Progress is 70
+[Debug] [2023-11-14 15:56:14] The value of Progress is 75
+[Debug] [2023-11-14 15:56:14] The value of Progress is 80
+[Debug] [2023-11-14 15:56:14] The value of Progress is 85
+[Debug] [2023-11-14 15:56:14] The value of Progress is 90
+[Debug] [2023-11-14 15:56:14] The value of Progress is 95
+[Debug] [2023-11-14 15:56:14] The value of Progress is 100
+[Debug] [2023-11-14 15:56:14] COMMAND[Program] execute successfully, takes 2.3 secs.
+[Debug] [2023-11-14 15:56:14] End to send programming cmd.
+[Debug] [2023-11-14 15:57:44] Begin to send programming cmd...
+[Debug] [2023-11-14 15:57:44] Send RPC:6
+[Debug] [2023-11-14 15:57:44] Begin to send program data.
+[Debug] [2023-11-14 15:57:44] End to send program data.
+[Debug] [2023-11-14 15:57:44] Send cmd [Program:20002] OK
+[Debug] [2023-11-14 15:57:44] The value of Progress is 6
+[Debug] [2023-11-14 15:57:45] The value of Progress is 10
+[Debug] [2023-11-14 15:57:45] The value of Progress is 15
+[Debug] [2023-11-14 15:57:45] The value of Progress is 20
+[Debug] [2023-11-14 15:57:45] The value of Progress is 25
+[Debug] [2023-11-14 15:57:45] The value of Progress is 30
+[Debug] [2023-11-14 15:57:45] The value of Progress is 35
+[Debug] [2023-11-14 15:57:45] The value of Progress is 40
+[Debug] [2023-11-14 15:57:45] The value of Progress is 45
+[Debug] [2023-11-14 15:57:45] The value of Progress is 50
+[Debug] [2023-11-14 15:57:45] The value of Progress is 55
+[Debug] [2023-11-14 15:57:45] The value of Progress is 60
+[Debug] [2023-11-14 15:57:46] The value of Progress is 65
+[Debug] [2023-11-14 15:57:46] The value of Progress is 70
+[Debug] [2023-11-14 15:57:46] The value of Progress is 75
+[Debug] [2023-11-14 15:57:46] The value of Progress is 80
+[Debug] [2023-11-14 15:57:46] The value of Progress is 85
+[Debug] [2023-11-14 15:57:46] The value of Progress is 90
+[Debug] [2023-11-14 15:57:46] The value of Progress is 95
+[Debug] [2023-11-14 15:57:46] The value of Progress is 100
+[Debug] [2023-11-14 15:57:46] COMMAND[Program] execute successfully, takes 2.3 secs.
+[Debug] [2023-11-14 15:57:46] End to send programming cmd.
+[Debug] [2023-11-14 15:58:41] Begin to send initialize chain cmd...
+[Debug] [2023-11-14 15:58:41] Send RPC:7
+[Debug] [2023-11-14 15:58:41] Send cmd [Open config cable:20001] OK
+[Debug] [2023-11-14 15:58:41] End to send initialize chain cmd.
+[Debug] [2023-11-14 15:58:41] begin the exec of open cable cmd...
+[Debug] [2023-11-14 15:58:41] Begin to deal with chain from server...
+[Debug] [2023-11-14 15:58:41] Begin to set user chain...
+[Debug] [2023-11-14 15:58:41] End to set user chain.
+[Debug] [2023-11-14 15:58:41] Begin to update graphic item and tree item ...
+[Debug] [2023-11-14 15:58:41] End to update graphic item and tree item ...
+[Info] [2023-11-14 15:58:51] set OpenLastPath: D:/pango_projection/ziguang_top/daima/jichuang/generate_bitstream/top.sbit
+[Debug] [2023-11-14 15:58:51] begin to get device info from CFG file...
+[Debug] [2023-11-14 15:58:51] end to get device info from CFG file...
+[Debug] [2023-11-14 15:58:51] Begin to update graphic item and tree item ...
+[Debug] [2023-11-14 15:58:51] End to update graphic item and tree item ...
+[Debug] [2023-11-14 15:58:51] End to deal wiht chain from server.
+[Debug] [2023-11-14 15:58:51] end the exec of open cable cmd.
+[Debug] [2023-11-14 15:58:51] COMMAND[Open config cable] execute successfully, takes 10.3 secs.
+[Debug] [2023-11-14 15:58:52] Begin to send programming cmd...
+[Debug] [2023-11-14 15:58:52] Send RPC:8
+[Debug] [2023-11-14 15:58:52] Begin to send program data.
+[Debug] [2023-11-14 15:58:52] End to send program data.
+[Debug] [2023-11-14 15:58:52] Send cmd [Program:20002] OK
+[Debug] [2023-11-14 15:58:53] The value of Progress is 6
+[Debug] [2023-11-14 15:58:53] The value of Progress is 10
+[Debug] [2023-11-14 15:58:53] The value of Progress is 15
+[Debug] [2023-11-14 15:58:53] The value of Progress is 20
+[Debug] [2023-11-14 15:58:53] The value of Progress is 25
+[Debug] [2023-11-14 15:58:53] The value of Progress is 30
+[Debug] [2023-11-14 15:58:53] The value of Progress is 35
+[Debug] [2023-11-14 15:58:53] The value of Progress is 40
+[Debug] [2023-11-14 15:58:54] The value of Progress is 45
+[Debug] [2023-11-14 15:58:54] The value of Progress is 50
+[Debug] [2023-11-14 15:58:54] The value of Progress is 55
+[Debug] [2023-11-14 15:58:54] The value of Progress is 60
+[Debug] [2023-11-14 15:58:54] The value of Progress is 65
+[Debug] [2023-11-14 15:58:54] The value of Progress is 70
+[Debug] [2023-11-14 15:58:54] The value of Progress is 75
+[Debug] [2023-11-14 15:58:54] The value of Progress is 80
+[Debug] [2023-11-14 15:58:54] The value of Progress is 85
+[Debug] [2023-11-14 15:58:54] The value of Progress is 90
+[Debug] [2023-11-14 15:58:54] The value of Progress is 95
+[Debug] [2023-11-14 15:58:54] The value of Progress is 100
+[Debug] [2023-11-14 15:58:55] COMMAND[Program] execute successfully, takes 2.3 secs.
+[Debug] [2023-11-14 15:58:55] End to send programming cmd.
+[Debug] [2023-11-14 15:59:33] Begin to send programming cmd...
+[Debug] [2023-11-14 15:59:33] Send RPC:9
+[Debug] [2023-11-14 15:59:33] Begin to send program data.
+[Debug] [2023-11-14 15:59:33] End to send program data.
+[Debug] [2023-11-14 15:59:33] Send cmd [Program:20002] OK
+[Debug] [2023-11-14 15:59:34] The value of Progress is 6
+[Debug] [2023-11-14 15:59:34] The value of Progress is 10
+[Debug] [2023-11-14 15:59:34] The value of Progress is 15
+[Debug] [2023-11-14 15:59:34] The value of Progress is 20
+[Debug] [2023-11-14 15:59:34] The value of Progress is 25
+[Debug] [2023-11-14 15:59:34] The value of Progress is 30
+[Debug] [2023-11-14 15:59:34] The value of Progress is 35
+[Debug] [2023-11-14 15:59:34] The value of Progress is 40
+[Debug] [2023-11-14 15:59:34] The value of Progress is 45
+[Debug] [2023-11-14 15:59:34] The value of Progress is 50
+[Debug] [2023-11-14 15:59:35] The value of Progress is 55
+[Debug] [2023-11-14 15:59:35] The value of Progress is 60
+[Debug] [2023-11-14 15:59:35] The value of Progress is 65
+[Debug] [2023-11-14 15:59:35] The value of Progress is 70
+[Debug] [2023-11-14 15:59:35] The value of Progress is 75
+[Debug] [2023-11-14 15:59:35] The value of Progress is 80
+[Debug] [2023-11-14 15:59:35] The value of Progress is 85
+[Debug] [2023-11-14 15:59:35] The value of Progress is 90
+[Debug] [2023-11-14 15:59:35] The value of Progress is 95
+[Debug] [2023-11-14 15:59:35] The value of Progress is 100
+[Debug] [2023-11-14 15:59:36] COMMAND[Program] execute successfully, takes 2.3 secs.
+[Debug] [2023-11-14 15:59:36] End to send programming cmd.
+[Debug] [2023-11-14 16:00:10] Begin to send initialize chain cmd...
+[Debug] [2023-11-14 16:00:10] Send RPC:10
+[Debug] [2023-11-14 16:00:10] Send cmd [Open config cable:20001] OK
+[Debug] [2023-11-14 16:00:10] End to send initialize chain cmd.
+[Debug] [2023-11-14 16:00:10] begin the exec of open cable cmd...
+[Debug] [2023-11-14 16:00:10] Begin to deal with chain from server...
+[Debug] [2023-11-14 16:00:10] Begin to set user chain...
+[Debug] [2023-11-14 16:00:10] End to set user chain.
+[Debug] [2023-11-14 16:00:10] Begin to update graphic item and tree item ...
+[Debug] [2023-11-14 16:00:10] End to update graphic item and tree item ...
+[Info] [2023-11-14 16:00:25] set OpenLastPath: D:/pango_projection/hdmi_zifu_display/05_hdmi_test/generate_bitstream/hdmi_test.sbit
+[Debug] [2023-11-14 16:00:25] begin to get device info from CFG file...
+[Debug] [2023-11-14 16:00:25] end to get device info from CFG file...
+[Debug] [2023-11-14 16:00:25] Begin to update graphic item and tree item ...
+[Debug] [2023-11-14 16:00:25] End to update graphic item and tree item ...
+[Debug] [2023-11-14 16:00:25] End to deal wiht chain from server.
+[Debug] [2023-11-14 16:00:25] end the exec of open cable cmd.
+[Debug] [2023-11-14 16:00:25] COMMAND[Open config cable] execute successfully, takes 15.4 secs.
+[Debug] [2023-11-14 16:00:26] Begin to send programming cmd...
+[Debug] [2023-11-14 16:00:26] Send RPC:11
+[Debug] [2023-11-14 16:00:26] Begin to send program data.
+[Debug] [2023-11-14 16:00:26] End to send program data.
+[Debug] [2023-11-14 16:00:26] Send cmd [Program:20002] OK
+[Debug] [2023-11-14 16:00:27] The value of Progress is 6
+[Debug] [2023-11-14 16:00:27] The value of Progress is 10
+[Debug] [2023-11-14 16:00:27] The value of Progress is 15
+[Debug] [2023-11-14 16:00:27] The value of Progress is 20
+[Debug] [2023-11-14 16:00:27] The value of Progress is 25
+[Debug] [2023-11-14 16:00:27] The value of Progress is 30
+[Debug] [2023-11-14 16:00:27] The value of Progress is 35
+[Debug] [2023-11-14 16:00:27] The value of Progress is 40
+[Debug] [2023-11-14 16:00:27] The value of Progress is 45
+[Debug] [2023-11-14 16:00:27] The value of Progress is 50
+[Debug] [2023-11-14 16:00:27] The value of Progress is 55
+[Debug] [2023-11-14 16:00:28] The value of Progress is 60
+[Debug] [2023-11-14 16:00:28] The value of Progress is 65
+[Debug] [2023-11-14 16:00:28] The value of Progress is 70
+[Debug] [2023-11-14 16:00:28] The value of Progress is 75
+[Debug] [2023-11-14 16:00:28] The value of Progress is 80
+[Debug] [2023-11-14 16:00:28] The value of Progress is 85
+[Debug] [2023-11-14 16:00:28] The value of Progress is 90
+[Debug] [2023-11-14 16:00:28] The value of Progress is 95
+[Debug] [2023-11-14 16:00:28] The value of Progress is 100
+[Debug] [2023-11-14 16:00:28] COMMAND[Program] execute successfully, takes 2.4 secs.
+[Debug] [2023-11-14 16:00:28] End to send programming cmd.
+[Debug] [2023-11-14 16:01:33] Begin to send initialize chain cmd...
+[Debug] [2023-11-14 16:01:33] Send RPC:12
+[Debug] [2023-11-14 16:01:33] Send cmd [Open config cable:20001] OK
+[Debug] [2023-11-14 16:01:33] End to send initialize chain cmd.
+[Debug] [2023-11-14 16:01:34] begin the exec of open cable cmd...
+[Debug] [2023-11-14 16:01:34] Begin to deal with chain from server...
+[Debug] [2023-11-14 16:01:34] Begin to set user chain...
+[Debug] [2023-11-14 16:01:34] End to set user chain.
+[Debug] [2023-11-14 16:01:34] Begin to update graphic item and tree item ...
+[Debug] [2023-11-14 16:01:34] End to update graphic item and tree item ...
+[Info] [2023-11-14 16:01:43] set OpenLastPath: D:/pango_projection/ziguang_top/daima/jichuang/generate_bitstream/top.sbit
+[Debug] [2023-11-14 16:01:43] begin to get device info from CFG file...
+[Debug] [2023-11-14 16:01:43] end to get device info from CFG file...
+[Debug] [2023-11-14 16:01:43] Begin to update graphic item and tree item ...
+[Debug] [2023-11-14 16:01:43] End to update graphic item and tree item ...
+[Debug] [2023-11-14 16:01:43] End to deal wiht chain from server.
+[Debug] [2023-11-14 16:01:43] end the exec of open cable cmd.
+[Debug] [2023-11-14 16:01:43] COMMAND[Open config cable] execute successfully, takes 9.3 secs.
+[Debug] [2023-11-14 16:01:44] Begin to send programming cmd...
+[Debug] [2023-11-14 16:01:44] Send RPC:13
+[Debug] [2023-11-14 16:01:44] Begin to send program data.
+[Debug] [2023-11-14 16:01:44] End to send program data.
+[Debug] [2023-11-14 16:01:44] Send cmd [Program:20002] OK
+[Debug] [2023-11-14 16:01:44] The value of Progress is 6
+[Debug] [2023-11-14 16:01:44] The value of Progress is 10
+[Debug] [2023-11-14 16:01:44] The value of Progress is 15
+[Debug] [2023-11-14 16:01:44] The value of Progress is 20
+[Debug] [2023-11-14 16:01:45] The value of Progress is 25
+[Debug] [2023-11-14 16:01:45] The value of Progress is 30
+[Debug] [2023-11-14 16:01:45] The value of Progress is 35
+[Debug] [2023-11-14 16:01:45] The value of Progress is 40
+[Debug] [2023-11-14 16:01:45] The value of Progress is 45
+[Debug] [2023-11-14 16:01:45] The value of Progress is 50
+[Debug] [2023-11-14 16:01:45] The value of Progress is 55
+[Debug] [2023-11-14 16:01:45] The value of Progress is 60
+[Debug] [2023-11-14 16:01:45] The value of Progress is 65
+[Debug] [2023-11-14 16:01:45] The value of Progress is 70
+[Debug] [2023-11-14 16:01:45] The value of Progress is 75
+[Debug] [2023-11-14 16:01:46] The value of Progress is 80
+[Debug] [2023-11-14 16:01:46] The value of Progress is 85
+[Debug] [2023-11-14 16:01:46] The value of Progress is 90
+[Debug] [2023-11-14 16:01:46] The value of Progress is 95
+[Debug] [2023-11-14 16:01:46] The value of Progress is 100
+[Debug] [2023-11-14 16:01:46] COMMAND[Program] execute successfully, takes 2.3 secs.
+[Debug] [2023-11-14 16:01:46] End to send programming cmd.
+[Debug] [2023-11-14 16:02:20] Begin to send initialize chain cmd...
+[Debug] [2023-11-14 16:02:20] Send RPC:14
+[Debug] [2023-11-14 16:02:20] Send cmd [Open config cable:20001] OK
+[Debug] [2023-11-14 16:02:20] End to send initialize chain cmd.
+[Debug] [2023-11-14 16:02:21] begin the exec of open cable cmd...
+[Debug] [2023-11-14 16:02:21] Begin to deal with chain from server...
+[Debug] [2023-11-14 16:02:21] Begin to set user chain...
+[Debug] [2023-11-14 16:02:21] End to set user chain.
+[Debug] [2023-11-14 16:02:21] Begin to update graphic item and tree item ...
+[Debug] [2023-11-14 16:02:21] End to update graphic item and tree item ...
+[Info] [2023-11-14 16:02:30] set OpenLastPath: D:/pango_projection/ziguang/generate_bitstream/top.sbit
+[Debug] [2023-11-14 16:02:30] begin to get device info from CFG file...
+[Debug] [2023-11-14 16:02:30] end to get device info from CFG file...
+[Debug] [2023-11-14 16:02:30] Begin to update graphic item and tree item ...
+[Debug] [2023-11-14 16:02:30] End to update graphic item and tree item ...
+[Debug] [2023-11-14 16:02:30] End to deal wiht chain from server.
+[Debug] [2023-11-14 16:02:30] end the exec of open cable cmd.
+[Debug] [2023-11-14 16:02:30] COMMAND[Open config cable] execute successfully, takes 9.7 secs.
+[Debug] [2023-11-14 16:02:32] Begin to send programming cmd...
+[Debug] [2023-11-14 16:02:32] Send RPC:15
+[Debug] [2023-11-14 16:02:32] Begin to send program data.
+[Debug] [2023-11-14 16:02:32] End to send program data.
+[Debug] [2023-11-14 16:02:32] Send cmd [Program:20002] OK
+[Debug] [2023-11-14 16:02:32] The value of Progress is 6
+[Debug] [2023-11-14 16:02:32] The value of Progress is 10
+[Debug] [2023-11-14 16:02:33] The value of Progress is 15
+[Debug] [2023-11-14 16:02:33] The value of Progress is 20
+[Debug] [2023-11-14 16:02:33] The value of Progress is 25
+[Debug] [2023-11-14 16:02:33] The value of Progress is 30
+[Debug] [2023-11-14 16:02:33] The value of Progress is 35
+[Debug] [2023-11-14 16:02:33] The value of Progress is 40
+[Debug] [2023-11-14 16:02:33] The value of Progress is 45
+[Debug] [2023-11-14 16:02:33] The value of Progress is 50
+[Debug] [2023-11-14 16:02:33] The value of Progress is 55
+[Debug] [2023-11-14 16:02:33] The value of Progress is 60
+[Debug] [2023-11-14 16:02:33] The value of Progress is 65
+[Debug] [2023-11-14 16:02:34] The value of Progress is 70
+[Debug] [2023-11-14 16:02:34] The value of Progress is 75
+[Debug] [2023-11-14 16:02:34] The value of Progress is 80
+[Debug] [2023-11-14 16:02:34] The value of Progress is 85
+[Debug] [2023-11-14 16:02:34] The value of Progress is 90
+[Debug] [2023-11-14 16:02:34] The value of Progress is 95
+[Debug] [2023-11-14 16:02:34] The value of Progress is 100
+[Debug] [2023-11-14 16:02:34] COMMAND[Program] execute successfully, takes 2.3 secs.
+[Debug] [2023-11-14 16:02:34] End to send programming cmd.
+[Debug] [2023-11-14 16:04:43] Begin to send initialize chain cmd...
+[Debug] [2023-11-14 16:04:43] Send RPC:16
+[Debug] [2023-11-14 16:04:43] Send cmd [Open config cable:20001] OK
+[Debug] [2023-11-14 16:04:43] End to send initialize chain cmd.
+[Debug] [2023-11-14 16:04:44] begin the exec of open cable cmd...
+[Debug] [2023-11-14 16:04:44] Begin to deal with chain from server...
+[Debug] [2023-11-14 16:04:44] Begin to set user chain...
+[Debug] [2023-11-14 16:04:44] End to set user chain.
+[Debug] [2023-11-14 16:04:44] Begin to update graphic item and tree item ...
+[Debug] [2023-11-14 16:04:44] End to update graphic item and tree item ...
+[Info] [2023-11-14 16:05:07] set OpenLastPath: D:/pango_projection/yitaiwang_eth_zifu_diaplay/05_hdmi_test/generate_bitstream/hdmi_test.sbit
+[Debug] [2023-11-14 16:05:07] begin to get device info from CFG file...
+[Debug] [2023-11-14 16:05:07] end to get device info from CFG file...
+[Debug] [2023-11-14 16:05:07] Begin to update graphic item and tree item ...
+[Debug] [2023-11-14 16:05:07] End to update graphic item and tree item ...
+[Debug] [2023-11-14 16:05:07] End to deal wiht chain from server.
+[Debug] [2023-11-14 16:05:07] end the exec of open cable cmd.
+[Debug] [2023-11-14 16:05:07] COMMAND[Open config cable] execute successfully, takes 23.8 secs.
+[Debug] [2023-11-14 16:05:09] Begin to send programming cmd...
+[Debug] [2023-11-14 16:05:09] Send RPC:17
+[Debug] [2023-11-14 16:05:09] Begin to send program data.
+[Debug] [2023-11-14 16:05:09] End to send program data.
+[Debug] [2023-11-14 16:05:09] Send cmd [Program:20002] OK
+[Debug] [2023-11-14 16:05:09] The value of Progress is 6
+[Debug] [2023-11-14 16:05:09] The value of Progress is 10
+[Debug] [2023-11-14 16:05:09] The value of Progress is 15
+[Debug] [2023-11-14 16:05:09] The value of Progress is 20
+[Debug] [2023-11-14 16:05:09] The value of Progress is 25
+[Debug] [2023-11-14 16:05:09] The value of Progress is 30
+[Debug] [2023-11-14 16:05:09] The value of Progress is 35
+[Debug] [2023-11-14 16:05:10] The value of Progress is 40
+[Debug] [2023-11-14 16:05:10] The value of Progress is 45
+[Debug] [2023-11-14 16:05:10] The value of Progress is 50
+[Debug] [2023-11-14 16:05:10] The value of Progress is 55
+[Debug] [2023-11-14 16:05:10] The value of Progress is 60
+[Debug] [2023-11-14 16:05:10] The value of Progress is 65
+[Debug] [2023-11-14 16:05:10] The value of Progress is 70
+[Debug] [2023-11-14 16:05:10] The value of Progress is 75
+[Debug] [2023-11-14 16:05:10] The value of Progress is 80
+[Debug] [2023-11-14 16:05:10] The value of Progress is 85
+[Debug] [2023-11-14 16:05:10] The value of Progress is 90
+[Debug] [2023-11-14 16:05:11] The value of Progress is 95
+[Debug] [2023-11-14 16:05:11] The value of Progress is 100
+[Debug] [2023-11-14 16:05:11] COMMAND[Program] execute successfully, takes 2.3 secs.
+[Debug] [2023-11-14 16:05:11] End to send programming cmd.
+[Debug] [2023-11-14 16:06:00] Begin to send initialize chain cmd...
+[Debug] [2023-11-14 16:06:00] Send RPC:18
+[Debug] [2023-11-14 16:06:00] Send cmd [Open config cable:20001] OK
+[Debug] [2023-11-14 16:06:00] End to send initialize chain cmd.
+[Debug] [2023-11-14 16:06:01] begin the exec of open cable cmd...
+[Debug] [2023-11-14 16:06:01] Begin to deal with chain from server...
+[Debug] [2023-11-14 16:06:01] Begin to set user chain...
+[Debug] [2023-11-14 16:06:01] End to set user chain.
+[Debug] [2023-11-14 16:06:01] Begin to update graphic item and tree item ...
+[Debug] [2023-11-14 16:06:01] End to update graphic item and tree item ...
+[Info] [2023-11-14 16:06:05] set OpenLastPath: C:/Users/Administrator/Desktop/topttt.sbit
+[Debug] [2023-11-14 16:06:05] begin to get device info from CFG file...
+[Debug] [2023-11-14 16:06:05] end to get device info from CFG file...
+[Debug] [2023-11-14 16:06:05] Begin to update graphic item and tree item ...
+[Debug] [2023-11-14 16:06:05] End to update graphic item and tree item ...
+[Debug] [2023-11-14 16:06:05] End to deal wiht chain from server.
+[Debug] [2023-11-14 16:06:05] end the exec of open cable cmd.
+[Debug] [2023-11-14 16:06:05] COMMAND[Open config cable] execute successfully, takes 4.8 secs.
+[Debug] [2023-11-14 16:06:06] Begin to send programming cmd...
+[Debug] [2023-11-14 16:06:06] Send RPC:19
+[Debug] [2023-11-14 16:06:06] Begin to send program data.
+[Debug] [2023-11-14 16:06:06] End to send program data.
+[Debug] [2023-11-14 16:06:06] Send cmd [Program:20002] OK
+[Debug] [2023-11-14 16:06:07] The value of Progress is 6
+[Debug] [2023-11-14 16:06:07] The value of Progress is 10
+[Debug] [2023-11-14 16:06:07] The value of Progress is 15
+[Debug] [2023-11-14 16:06:07] The value of Progress is 20
+[Debug] [2023-11-14 16:06:07] The value of Progress is 25
+[Debug] [2023-11-14 16:06:07] The value of Progress is 30
+[Debug] [2023-11-14 16:06:07] The value of Progress is 35
+[Debug] [2023-11-14 16:06:07] The value of Progress is 40
+[Debug] [2023-11-14 16:06:08] The value of Progress is 45
+[Debug] [2023-11-14 16:06:08] The value of Progress is 50
+[Debug] [2023-11-14 16:06:08] The value of Progress is 55
+[Debug] [2023-11-14 16:06:08] The value of Progress is 60
+[Debug] [2023-11-14 16:06:08] The value of Progress is 65
+[Debug] [2023-11-14 16:06:08] The value of Progress is 70
+[Debug] [2023-11-14 16:06:08] The value of Progress is 75
+[Debug] [2023-11-14 16:06:08] The value of Progress is 80
+[Debug] [2023-11-14 16:06:08] The value of Progress is 85
+[Debug] [2023-11-14 16:06:08] The value of Progress is 90
+[Debug] [2023-11-14 16:06:08] The value of Progress is 95
+[Debug] [2023-11-14 16:06:08] The value of Progress is 100
+[Debug] [2023-11-14 16:06:09] COMMAND[Program] execute successfully, takes 2.3 secs.
+[Debug] [2023-11-14 16:06:09] End to send programming cmd.
+[Debug] [2023-11-14 16:07:29] Begin to send initialize chain cmd...
+[Debug] [2023-11-14 16:07:29] Send RPC:20
+[Debug] [2023-11-14 16:07:29] Send cmd [Open config cable:20001] OK
+[Debug] [2023-11-14 16:07:29] End to send initialize chain cmd.
+[Debug] [2023-11-14 16:07:30] begin the exec of open cable cmd...
+[Debug] [2023-11-14 16:07:30] Begin to deal with chain from server...
+[Debug] [2023-11-14 16:07:30] Begin to set user chain...
+[Debug] [2023-11-14 16:07:30] End to set user chain.
+[Debug] [2023-11-14 16:07:30] Begin to update graphic item and tree item ...
+[Debug] [2023-11-14 16:07:30] End to update graphic item and tree item ...
+[Info] [2023-11-14 16:07:50] set OpenLastPath: D:/pango_projection/ziguang/generate_bitstream/top.sbit
+[Debug] [2023-11-14 16:07:50] begin to get device info from CFG file...
+[Debug] [2023-11-14 16:07:50] end to get device info from CFG file...
+[Debug] [2023-11-14 16:07:50] Begin to update graphic item and tree item ...
+[Debug] [2023-11-14 16:07:50] End to update graphic item and tree item ...
+[Debug] [2023-11-14 16:07:50] End to deal wiht chain from server.
+[Debug] [2023-11-14 16:07:50] end the exec of open cable cmd.
+[Debug] [2023-11-14 16:07:50] COMMAND[Open config cable] execute successfully, takes 20.8 secs.
+[Debug] [2023-11-14 16:07:52] Begin to send programming cmd...
+[Debug] [2023-11-14 16:07:52] Send RPC:21
+[Debug] [2023-11-14 16:07:52] Begin to send program data.
+[Debug] [2023-11-14 16:07:52] End to send program data.
+[Debug] [2023-11-14 16:07:52] Send cmd [Program:20002] OK
+[Debug] [2023-11-14 16:07:52] The value of Progress is 6
+[Debug] [2023-11-14 16:07:53] The value of Progress is 10
+[Debug] [2023-11-14 16:07:53] The value of Progress is 15
+[Debug] [2023-11-14 16:07:53] The value of Progress is 20
+[Debug] [2023-11-14 16:07:53] The value of Progress is 25
+[Debug] [2023-11-14 16:07:53] The value of Progress is 30
+[Debug] [2023-11-14 16:07:53] The value of Progress is 35
+[Debug] [2023-11-14 16:07:53] The value of Progress is 40
+[Debug] [2023-11-14 16:07:53] The value of Progress is 45
+[Debug] [2023-11-14 16:07:53] The value of Progress is 50
+[Debug] [2023-11-14 16:07:53] The value of Progress is 55
+[Debug] [2023-11-14 16:07:53] The value of Progress is 60
+[Debug] [2023-11-14 16:07:54] The value of Progress is 65
+[Debug] [2023-11-14 16:07:54] The value of Progress is 70
+[Debug] [2023-11-14 16:07:54] The value of Progress is 75
+[Debug] [2023-11-14 16:07:54] The value of Progress is 80
+[Debug] [2023-11-14 16:07:54] The value of Progress is 85
+[Debug] [2023-11-14 16:07:54] The value of Progress is 90
+[Debug] [2023-11-14 16:07:54] The value of Progress is 95
+[Debug] [2023-11-14 16:07:54] The value of Progress is 100
+[Debug] [2023-11-14 16:07:54] COMMAND[Program] execute successfully, takes 2.4 secs.
+[Debug] [2023-11-14 16:07:54] End to send programming cmd.
+[Debug] [2023-11-14 16:09:40] Begin to send initialize chain cmd...
+[Debug] [2023-11-14 16:09:40] Send RPC:22
+[Debug] [2023-11-14 16:09:40] Send cmd [Open config cable:20001] OK
+[Debug] [2023-11-14 16:09:40] End to send initialize chain cmd.
+[Debug] [2023-11-14 16:09:40] begin the exec of open cable cmd...
+[Debug] [2023-11-14 16:09:40] Begin to deal with chain from server...
+[Debug] [2023-11-14 16:09:40] Begin to set user chain...
+[Debug] [2023-11-14 16:09:40] End to set user chain.
+[Debug] [2023-11-14 16:09:40] Begin to update graphic item and tree item ...
+[Debug] [2023-11-14 16:09:40] End to update graphic item and tree item ...
+[Info] [2023-11-14 16:09:44] set OpenLastPath: C:/Users/Administrator/Desktop/hdmi_testttt.sbit
+[Debug] [2023-11-14 16:09:44] begin to get device info from CFG file...
+[Debug] [2023-11-14 16:09:44] end to get device info from CFG file...
+[Debug] [2023-11-14 16:09:44] Begin to update graphic item and tree item ...
+[Debug] [2023-11-14 16:09:44] End to update graphic item and tree item ...
+[Debug] [2023-11-14 16:09:44] End to deal wiht chain from server.
+[Debug] [2023-11-14 16:09:44] end the exec of open cable cmd.
+[Debug] [2023-11-14 16:09:44] COMMAND[Open config cable] execute successfully, takes 4.5 secs.
+[Debug] [2023-11-14 16:09:45] Begin to send programming cmd...
+[Debug] [2023-11-14 16:09:45] Send RPC:23
+[Debug] [2023-11-14 16:09:45] Begin to send program data.
+[Debug] [2023-11-14 16:09:45] End to send program data.
+[Debug] [2023-11-14 16:09:45] Send cmd [Program:20002] OK
+[Debug] [2023-11-14 16:09:46] The value of Progress is 6
+[Debug] [2023-11-14 16:09:46] The value of Progress is 10
+[Debug] [2023-11-14 16:09:46] The value of Progress is 15
+[Debug] [2023-11-14 16:09:46] The value of Progress is 20
+[Debug] [2023-11-14 16:09:46] The value of Progress is 25
+[Debug] [2023-11-14 16:09:46] The value of Progress is 30
+[Debug] [2023-11-14 16:09:46] The value of Progress is 35
+[Debug] [2023-11-14 16:09:46] The value of Progress is 40
+[Debug] [2023-11-14 16:09:46] The value of Progress is 45
+[Debug] [2023-11-14 16:09:47] The value of Progress is 50
+[Debug] [2023-11-14 16:09:47] The value of Progress is 55
+[Debug] [2023-11-14 16:09:47] The value of Progress is 60
+[Debug] [2023-11-14 16:09:47] The value of Progress is 65
+[Debug] [2023-11-14 16:09:47] The value of Progress is 70
+[Debug] [2023-11-14 16:09:47] The value of Progress is 75
+[Debug] [2023-11-14 16:09:47] The value of Progress is 80
+[Debug] [2023-11-14 16:09:47] The value of Progress is 85
+[Debug] [2023-11-14 16:09:47] The value of Progress is 90
+[Debug] [2023-11-14 16:09:47] The value of Progress is 95
+[Debug] [2023-11-14 16:09:47] The value of Progress is 100
+[Debug] [2023-11-14 16:09:48] COMMAND[Program] execute successfully, takes 2.3 secs.
+[Debug] [2023-11-14 16:09:48] End to send programming cmd.
+[Debug] [2023-11-14 16:10:11] Begin to send programming cmd...
+[Debug] [2023-11-14 16:10:11] Send RPC:24
+[Debug] [2023-11-14 16:10:11] Begin to send program data.
+[Debug] [2023-11-14 16:10:11] End to send program data.
+[Debug] [2023-11-14 16:10:11] Send cmd [Program:20002] OK
+[Debug] [2023-11-14 16:10:11] The value of Progress is 6
+[Debug] [2023-11-14 16:10:11] The value of Progress is 10
+[Debug] [2023-11-14 16:10:11] The value of Progress is 15
+[Debug] [2023-11-14 16:10:11] The value of Progress is 20
+[Debug] [2023-11-14 16:10:12] The value of Progress is 25
+[Debug] [2023-11-14 16:10:12] The value of Progress is 30
+[Debug] [2023-11-14 16:10:12] The value of Progress is 35
+[Debug] [2023-11-14 16:10:12] The value of Progress is 40
+[Debug] [2023-11-14 16:10:12] The value of Progress is 45
+[Debug] [2023-11-14 16:10:12] The value of Progress is 50
+[Debug] [2023-11-14 16:10:12] The value of Progress is 55
+[Debug] [2023-11-14 16:10:12] The value of Progress is 60
+[Debug] [2023-11-14 16:10:12] The value of Progress is 65
+[Debug] [2023-11-14 16:10:12] The value of Progress is 70
+[Debug] [2023-11-14 16:10:12] The value of Progress is 75
+[Debug] [2023-11-14 16:10:13] The value of Progress is 80
+[Debug] [2023-11-14 16:10:13] The value of Progress is 85
+[Debug] [2023-11-14 16:10:13] The value of Progress is 90
+[Debug] [2023-11-14 16:10:13] The value of Progress is 95
+[Debug] [2023-11-14 16:10:13] The value of Progress is 100
+[Debug] [2023-11-14 16:10:13] COMMAND[Program] execute successfully, takes 2.4 secs.
+[Debug] [2023-11-14 16:10:13] End to send programming cmd.
+[Debug] [2023-11-14 16:10:23] Begin to send programming cmd...
+[Debug] [2023-11-14 16:10:23] Send RPC:25
+[Debug] [2023-11-14 16:10:23] Begin to send program data.
+[Debug] [2023-11-14 16:10:23] End to send program data.
+[Debug] [2023-11-14 16:10:23] Send cmd [Program:20002] OK
+[Debug] [2023-11-14 16:10:24] The value of Progress is 6
+[Debug] [2023-11-14 16:10:24] The value of Progress is 10
+[Debug] [2023-11-14 16:10:24] The value of Progress is 15
+[Debug] [2023-11-14 16:10:24] The value of Progress is 20
+[Debug] [2023-11-14 16:10:24] The value of Progress is 25
+[Debug] [2023-11-14 16:10:24] The value of Progress is 30
+[Debug] [2023-11-14 16:10:24] The value of Progress is 35
+[Debug] [2023-11-14 16:10:24] The value of Progress is 40
+[Debug] [2023-11-14 16:10:24] The value of Progress is 45
+[Debug] [2023-11-14 16:10:24] The value of Progress is 50
+[Debug] [2023-11-14 16:10:24] The value of Progress is 55
+[Debug] [2023-11-14 16:10:25] The value of Progress is 60
+[Debug] [2023-11-14 16:10:25] The value of Progress is 65
+[Debug] [2023-11-14 16:10:25] The value of Progress is 70
+[Debug] [2023-11-14 16:10:25] The value of Progress is 75
+[Debug] [2023-11-14 16:10:25] The value of Progress is 80
+[Debug] [2023-11-14 16:10:25] The value of Progress is 85
+[Debug] [2023-11-14 16:10:25] The value of Progress is 90
+[Debug] [2023-11-14 16:10:25] The value of Progress is 95
+[Debug] [2023-11-14 16:10:25] The value of Progress is 100
+[Debug] [2023-11-14 16:10:26] COMMAND[Program] execute successfully, takes 2.3 secs.
+[Debug] [2023-11-14 16:10:26] End to send programming cmd.
+[Debug] [2023-11-14 16:10:34] Begin to send programming cmd...
+[Debug] [2023-11-14 16:10:34] Send RPC:26
+[Debug] [2023-11-14 16:10:34] Begin to send program data.
+[Debug] [2023-11-14 16:10:34] End to send program data.
+[Debug] [2023-11-14 16:10:34] Send cmd [Program:20002] OK
+[Debug] [2023-11-14 16:10:34] The value of Progress is 6
+[Debug] [2023-11-14 16:10:34] The value of Progress is 10
+[Debug] [2023-11-14 16:10:34] The value of Progress is 15
+[Debug] [2023-11-14 16:10:35] The value of Progress is 20
+[Debug] [2023-11-14 16:10:35] The value of Progress is 25
+[Debug] [2023-11-14 16:10:35] The value of Progress is 30
+[Debug] [2023-11-14 16:10:35] The value of Progress is 35
+[Debug] [2023-11-14 16:10:35] The value of Progress is 40
+[Debug] [2023-11-14 16:10:35] The value of Progress is 45
+[Debug] [2023-11-14 16:10:35] The value of Progress is 50
+[Debug] [2023-11-14 16:10:35] The value of Progress is 55
+[Debug] [2023-11-14 16:10:35] The value of Progress is 60
+[Debug] [2023-11-14 16:10:35] The value of Progress is 65
+[Debug] [2023-11-14 16:10:35] The value of Progress is 70
+[Debug] [2023-11-14 16:10:36] The value of Progress is 75
+[Debug] [2023-11-14 16:10:36] The value of Progress is 80
+[Debug] [2023-11-14 16:10:36] The value of Progress is 85
+[Debug] [2023-11-14 16:10:36] The value of Progress is 90
+[Debug] [2023-11-14 16:10:36] The value of Progress is 95
+[Debug] [2023-11-14 16:10:36] The value of Progress is 100
+[Debug] [2023-11-14 16:10:36] COMMAND[Program] execute successfully, takes 2.3 secs.
+[Debug] [2023-11-14 16:10:36] End to send programming cmd.
+[Debug] [2023-11-14 16:11:16] Begin to send initialize chain cmd...
+[Debug] [2023-11-14 16:11:16] Send RPC:27
+[Debug] [2023-11-14 16:11:16] Send cmd [Open config cable:20001] OK
+[Debug] [2023-11-14 16:11:16] End to send initialize chain cmd.
+[Debug] [2023-11-14 16:11:17] begin the exec of open cable cmd...
+[Debug] [2023-11-14 16:11:17] Begin to deal with chain from server...
+[Debug] [2023-11-14 16:11:17] Begin to set user chain...
+[Debug] [2023-11-14 16:11:17] End to set user chain.
+[Debug] [2023-11-14 16:11:17] Begin to update graphic item and tree item ...
+[Debug] [2023-11-14 16:11:17] End to update graphic item and tree item ...
+[Debug] [2023-11-14 16:11:18] selected file name is empty and ignore.
+[Debug] [2023-11-14 16:11:18] End to deal wiht chain from server.
+[Debug] [2023-11-14 16:11:18] end the exec of open cable cmd.
+[Debug] [2023-11-14 16:11:18] COMMAND[Open config cable] execute successfully, takes 2.0 secs.
+[Info] [2023-11-14 16:11:18] /***************************End Configration***************************/
+[Info] [2023-11-14 16:11:38] /***************************Start Configuration***************************/
+[Info] [2023-11-14 16:11:38] Path: D:/pango/PDS_2022.1/bin
+[Info] [2023-11-14 16:11:38] Version: 99559
+[Info] [2023-11-14 16:11:39] Current Path: D:/pango_projection/ziguang
+[Info] [2023-11-14 16:11:39] PDS Dir Path: D:/pango_projection/ziguang
+[Info] [2023-11-14 16:11:44] Configuration is not connect with server. connect first then scan chain.
+[Debug] [2023-11-14 16:11:44] Client Local host name:DESKTOP-AN3SH4R
+[Debug] [2023-11-14 16:11:44] Client Local Address:192.168.1.102
+[Debug] [2023-11-14 16:11:44] Client Local Address:192.168.124.49
+[Debug] [2023-11-14 16:11:44] Server Address:127.0.0.1, Port:65420
+[Info] [2023-11-14 16:11:45] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2023-11-14 16:11:45] Finish.
+[Info] [2023-11-14 16:11:45] Connect server succeeded
+[Debug] [2023-11-14 16:11:45] Send RPC:1
+[Debug] [2023-11-14 16:11:45] Send cmd [check version information:40005] OK
+[Debug] [2023-11-14 16:11:45] Send RPC:2
+[Debug] [2023-11-14 16:11:45] Send cmd [get_cable_paras:40011] OK
+[Debug] [2023-11-14 16:11:45] Begin to send initialize chain cmd...
+[Debug] [2023-11-14 16:11:45] Send RPC:3
+[Debug] [2023-11-14 16:11:45] Send cmd [Open config cable:20001] OK
+[Debug] [2023-11-14 16:11:45] End to send initialize chain cmd.
+[Debug] [2023-11-14 16:11:45] COMMAND[check version information] execute successfully, takes 0.6 secs.
+[Debug] [2023-11-14 16:11:47] COMMAND[get_cable_paras] execute successfully, takes 1.2 secs.
+[Debug] [2023-11-14 16:11:47] begin the exec of open cable cmd...
+[Debug] [2023-11-14 16:11:47] Begin to deal with chain from server...
+[Debug] [2023-11-14 16:11:47] Begin to set user chain...
+[Debug] [2023-11-14 16:11:47] End to set user chain.
+[Debug] [2023-11-14 16:11:47] Begin to update graphic item and tree item ...
+[Debug] [2023-11-14 16:11:47] End to update graphic item and tree item ...
+[Info] [2023-11-14 16:11:49] set OpenLastPath: D:/pango_projection/ziguang/generate_bitstream/top.sbit
+[Debug] [2023-11-14 16:11:49] begin to get device info from CFG file...
+[Debug] [2023-11-14 16:11:49] end to get device info from CFG file...
+[Debug] [2023-11-14 16:11:49] Begin to update graphic item and tree item ...
+[Debug] [2023-11-14 16:11:49] End to update graphic item and tree item ...
+[Debug] [2023-11-14 16:11:49] End to deal wiht chain from server.
+[Debug] [2023-11-14 16:11:49] end the exec of open cable cmd.
+[Debug] [2023-11-14 16:11:49] COMMAND[Open config cable] execute successfully, takes 3.8 secs.
+[Debug] [2023-11-14 16:11:51] Begin to send programming cmd...
+[Debug] [2023-11-14 16:11:51] Send RPC:4
+[Debug] [2023-11-14 16:11:51] Begin to send program data.
+[Debug] [2023-11-14 16:11:51] End to send program data.
+[Debug] [2023-11-14 16:11:51] Send cmd [Program:20002] OK
+[Debug] [2023-11-14 16:11:51] The value of Progress is 6
+[Debug] [2023-11-14 16:11:51] The value of Progress is 10
+[Debug] [2023-11-14 16:11:51] The value of Progress is 15
+[Debug] [2023-11-14 16:11:51] The value of Progress is 20
+[Debug] [2023-11-14 16:11:51] The value of Progress is 25
+[Debug] [2023-11-14 16:11:51] The value of Progress is 30
+[Debug] [2023-11-14 16:11:51] The value of Progress is 35
+[Debug] [2023-11-14 16:11:52] The value of Progress is 40
+[Debug] [2023-11-14 16:11:52] The value of Progress is 45
+[Debug] [2023-11-14 16:11:52] The value of Progress is 50
+[Debug] [2023-11-14 16:11:52] The value of Progress is 55
+[Debug] [2023-11-14 16:11:52] The value of Progress is 60
+[Debug] [2023-11-14 16:11:52] The value of Progress is 65
+[Debug] [2023-11-14 16:11:52] The value of Progress is 70
+[Debug] [2023-11-14 16:11:52] The value of Progress is 75
+[Debug] [2023-11-14 16:11:52] The value of Progress is 80
+[Debug] [2023-11-14 16:11:52] The value of Progress is 85
+[Debug] [2023-11-14 16:11:52] The value of Progress is 90
+[Debug] [2023-11-14 16:11:53] The value of Progress is 95
+[Debug] [2023-11-14 16:11:53] The value of Progress is 100
+[Debug] [2023-11-14 16:11:53] COMMAND[Program] execute successfully, takes 2.3 secs.
+[Debug] [2023-11-14 16:11:53] End to send programming cmd.
+[Debug] [2023-11-14 16:12:11] Begin to send initialize chain cmd...
+[Debug] [2023-11-14 16:12:11] Send RPC:5
+[Debug] [2023-11-14 16:12:11] Send cmd [Open config cable:20001] OK
+[Debug] [2023-11-14 16:12:11] End to send initialize chain cmd.
+[Debug] [2023-11-14 16:12:12] begin the exec of open cable cmd...
+[Debug] [2023-11-14 16:12:12] Begin to deal with chain from server...
+[Debug] [2023-11-14 16:12:12] Begin to set user chain...
+[Debug] [2023-11-14 16:12:12] End to set user chain.
+[Debug] [2023-11-14 16:12:12] Begin to update graphic item and tree item ...
+[Debug] [2023-11-14 16:12:12] End to update graphic item and tree item ...
+[Info] [2023-11-14 16:12:21] set OpenLastPath: C:/Users/Administrator/Desktop/hdmi_testttt.sbit
+[Debug] [2023-11-14 16:12:21] begin to get device info from CFG file...
+[Debug] [2023-11-14 16:12:21] end to get device info from CFG file...
+[Debug] [2023-11-14 16:12:21] Begin to update graphic item and tree item ...
+[Debug] [2023-11-14 16:12:21] End to update graphic item and tree item ...
+[Debug] [2023-11-14 16:12:21] End to deal wiht chain from server.
+[Debug] [2023-11-14 16:12:21] end the exec of open cable cmd.
+[Debug] [2023-11-14 16:12:21] COMMAND[Open config cable] execute successfully, takes 9.9 secs.
+[Debug] [2023-11-14 16:12:23] Begin to send programming cmd...
+[Debug] [2023-11-14 16:12:23] Send RPC:6
+[Debug] [2023-11-14 16:12:23] Begin to send program data.
+[Debug] [2023-11-14 16:12:23] End to send program data.
+[Debug] [2023-11-14 16:12:23] Send cmd [Program:20002] OK
+[Debug] [2023-11-14 16:12:23] The value of Progress is 6
+[Debug] [2023-11-14 16:12:23] The value of Progress is 10
+[Debug] [2023-11-14 16:12:23] The value of Progress is 15
+[Debug] [2023-11-14 16:12:23] The value of Progress is 20
+[Debug] [2023-11-14 16:12:23] The value of Progress is 25
+[Debug] [2023-11-14 16:12:24] The value of Progress is 30
+[Debug] [2023-11-14 16:12:24] The value of Progress is 35
+[Debug] [2023-11-14 16:12:24] The value of Progress is 40
+[Debug] [2023-11-14 16:12:24] The value of Progress is 45
+[Debug] [2023-11-14 16:12:24] The value of Progress is 50
+[Debug] [2023-11-14 16:12:24] The value of Progress is 55
+[Debug] [2023-11-14 16:12:24] The value of Progress is 60
+[Debug] [2023-11-14 16:12:24] The value of Progress is 65
+[Debug] [2023-11-14 16:12:24] The value of Progress is 70
+[Debug] [2023-11-14 16:12:24] The value of Progress is 75
+[Debug] [2023-11-14 16:12:24] The value of Progress is 80
+[Debug] [2023-11-14 16:12:25] The value of Progress is 85
+[Debug] [2023-11-14 16:12:25] The value of Progress is 90
+[Debug] [2023-11-14 16:12:25] The value of Progress is 95
+[Debug] [2023-11-14 16:12:25] The value of Progress is 100
+[Debug] [2023-11-14 16:12:25] COMMAND[Program] execute successfully, takes 2.3 secs.
+[Debug] [2023-11-14 16:12:25] End to send programming cmd.
+[Info] [2023-11-14 16:12:52] /***************************End Configration***************************/
+[Info] [2023-11-14 23:33:03] /***************************Start Configuration***************************/
+[Info] [2023-11-14 23:33:03] Path: D:/pango/PDS_2022.1/bin
+[Info] [2023-11-14 23:33:03] Version: 99559
+[Info] [2023-11-14 23:33:04] Current Path: D:/pango_projection/ziguang
+[Info] [2023-11-14 23:33:04] PDS Dir Path: D:/pango_projection/ziguang
+[Info] [2023-11-14 23:33:26] Configuration is not connect with server. connect first then scan chain.
+[Debug] [2023-11-14 23:33:26] Client Local host name:DESKTOP-AN3SH4R
+[Debug] [2023-11-14 23:33:26] Client Local Address:192.168.1.102
+[Debug] [2023-11-14 23:33:26] Client Local Address:192.168.124.49
+[Debug] [2023-11-14 23:33:26] Server Address:127.0.0.1, Port:65420
+[Info] [2023-11-14 23:33:27] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2023-11-14 23:33:27] Finish.
+[Info] [2023-11-14 23:33:27] Connect server succeeded
+[Debug] [2023-11-14 23:33:27] Send RPC:1
+[Debug] [2023-11-14 23:33:27] Send cmd [check version information:40005] OK
+[Debug] [2023-11-14 23:33:29] Send RPC:2
+[Debug] [2023-11-14 23:33:29] Send cmd [get_cable_paras:40011] OK
+[Debug] [2023-11-14 23:33:29] Begin to send initialize chain cmd...
+[Debug] [2023-11-14 23:33:29] Send RPC:3
+[Debug] [2023-11-14 23:33:29] Send cmd [Open config cable:20001] OK
+[Debug] [2023-11-14 23:33:29] End to send initialize chain cmd.
+[Debug] [2023-11-14 23:33:29] COMMAND[check version information] execute successfully, takes 2.0 secs.
+[Debug] [2023-11-14 23:33:31] COMMAND[get_cable_paras] execute successfully, takes 1.9 secs.
+[Debug] [2023-11-14 23:33:32] begin the exec of open cable cmd...
+[Debug] [2023-11-14 23:33:32] Begin to deal with chain from server...
+[Debug] [2023-11-14 23:33:32] Begin to set user chain...
+[Debug] [2023-11-14 23:33:32] End to set user chain.
+[Debug] [2023-11-14 23:33:32] Begin to update graphic item and tree item ...
+[Debug] [2023-11-14 23:33:32] End to update graphic item and tree item ...
+[Info] [2023-11-14 23:33:34] set OpenLastPath: D:/pango_projection/ziguang/generate_bitstream/top.sbit
+[Debug] [2023-11-14 23:33:34] begin to get device info from CFG file...
+[Debug] [2023-11-14 23:33:34] end to get device info from CFG file...
+[Debug] [2023-11-14 23:33:34] Begin to update graphic item and tree item ...
+[Debug] [2023-11-14 23:33:34] End to update graphic item and tree item ...
+[Debug] [2023-11-14 23:33:34] End to deal wiht chain from server.
+[Debug] [2023-11-14 23:33:34] end the exec of open cable cmd.
+[Debug] [2023-11-14 23:33:34] COMMAND[Open config cable] execute successfully, takes 4.5 secs.
+[Debug] [2023-11-14 23:33:35] Begin to send programming cmd...
+[Debug] [2023-11-14 23:33:35] Send RPC:4
+[Debug] [2023-11-14 23:33:35] Begin to send program data.
+[Debug] [2023-11-14 23:33:35] End to send program data.
+[Debug] [2023-11-14 23:33:35] Send cmd [Program:20002] OK
+[Debug] [2023-11-14 23:33:35] The value of Progress is 6
+[Debug] [2023-11-14 23:33:36] The value of Progress is 10
+[Debug] [2023-11-14 23:33:36] The value of Progress is 15
+[Debug] [2023-11-14 23:33:36] The value of Progress is 20
+[Debug] [2023-11-14 23:33:36] The value of Progress is 25
+[Debug] [2023-11-14 23:33:36] The value of Progress is 30
+[Debug] [2023-11-14 23:33:36] The value of Progress is 35
+[Debug] [2023-11-14 23:33:36] The value of Progress is 40
+[Debug] [2023-11-14 23:33:36] The value of Progress is 45
+[Debug] [2023-11-14 23:33:36] The value of Progress is 50
+[Debug] [2023-11-14 23:33:36] The value of Progress is 55
+[Debug] [2023-11-14 23:33:36] The value of Progress is 60
+[Debug] [2023-11-14 23:33:37] The value of Progress is 65
+[Debug] [2023-11-14 23:33:37] The value of Progress is 70
+[Debug] [2023-11-14 23:33:37] The value of Progress is 75
+[Debug] [2023-11-14 23:33:37] The value of Progress is 80
+[Debug] [2023-11-14 23:33:37] The value of Progress is 85
+[Debug] [2023-11-14 23:33:37] The value of Progress is 90
+[Debug] [2023-11-14 23:33:37] The value of Progress is 95
+[Debug] [2023-11-14 23:33:37] The value of Progress is 100
+[Debug] [2023-11-14 23:33:37] COMMAND[Program] execute successfully, takes 2.3 secs.
+[Debug] [2023-11-14 23:33:37] End to send programming cmd.
+[Debug] [2023-11-14 23:36:43] Begin to send programming cmd...
+[Debug] [2023-11-14 23:36:43] Send RPC:5
+[Debug] [2023-11-14 23:36:43] Begin to send program data.
+[Debug] [2023-11-14 23:36:43] End to send program data.
+[Debug] [2023-11-14 23:36:43] Send cmd [Program:20002] OK
+[Debug] [2023-11-14 23:36:43] The value of Progress is 6
+[Debug] [2023-11-14 23:36:43] The value of Progress is 10
+[Debug] [2023-11-14 23:36:44] The value of Progress is 15
+[Debug] [2023-11-14 23:36:44] The value of Progress is 20
+[Debug] [2023-11-14 23:36:44] The value of Progress is 25
+[Debug] [2023-11-14 23:36:44] The value of Progress is 30
+[Debug] [2023-11-14 23:36:44] The value of Progress is 35
+[Debug] [2023-11-14 23:36:44] The value of Progress is 40
+[Debug] [2023-11-14 23:36:44] The value of Progress is 45
+[Debug] [2023-11-14 23:36:44] The value of Progress is 50
+[Debug] [2023-11-14 23:36:44] The value of Progress is 55
+[Debug] [2023-11-14 23:36:44] The value of Progress is 60
+[Debug] [2023-11-14 23:36:44] The value of Progress is 65
+[Debug] [2023-11-14 23:36:44] The value of Progress is 70
+[Debug] [2023-11-14 23:36:45] The value of Progress is 75
+[Debug] [2023-11-14 23:36:45] The value of Progress is 80
+[Debug] [2023-11-14 23:36:45] The value of Progress is 85
+[Debug] [2023-11-14 23:36:45] The value of Progress is 90
+[Debug] [2023-11-14 23:36:45] The value of Progress is 95
+[Debug] [2023-11-14 23:36:45] The value of Progress is 100
+[Debug] [2023-11-14 23:36:45] COMMAND[Program] execute successfully, takes 2.3 secs.
+[Debug] [2023-11-14 23:36:45] End to send programming cmd.
+[Debug] [2023-11-14 23:38:05] Begin to send programming cmd...
+[Debug] [2023-11-14 23:38:05] Send RPC:6
+[Debug] [2023-11-14 23:38:05] Begin to send program data.
+[Debug] [2023-11-14 23:38:05] End to send program data.
+[Debug] [2023-11-14 23:38:05] Send cmd [Program:20002] OK
+[Debug] [2023-11-14 23:38:06] The value of Progress is 6
+[Debug] [2023-11-14 23:38:06] The value of Progress is 10
+[Debug] [2023-11-14 23:38:06] The value of Progress is 15
+[Debug] [2023-11-14 23:38:06] The value of Progress is 20
+[Debug] [2023-11-14 23:38:06] The value of Progress is 25
+[Debug] [2023-11-14 23:38:06] The value of Progress is 30
+[Debug] [2023-11-14 23:38:06] The value of Progress is 35
+[Debug] [2023-11-14 23:38:06] The value of Progress is 40
+[Debug] [2023-11-14 23:38:06] The value of Progress is 45
+[Debug] [2023-11-14 23:38:07] The value of Progress is 50
+[Debug] [2023-11-14 23:38:07] The value of Progress is 55
+[Debug] [2023-11-14 23:38:07] The value of Progress is 60
+[Debug] [2023-11-14 23:38:07] The value of Progress is 65
+[Debug] [2023-11-14 23:38:07] The value of Progress is 70
+[Debug] [2023-11-14 23:38:07] The value of Progress is 75
+[Debug] [2023-11-14 23:38:07] The value of Progress is 80
+[Debug] [2023-11-14 23:38:07] The value of Progress is 85
+[Debug] [2023-11-14 23:38:07] The value of Progress is 90
+[Debug] [2023-11-14 23:38:07] The value of Progress is 95
+[Debug] [2023-11-14 23:38:07] The value of Progress is 100
+[Debug] [2023-11-14 23:38:08] COMMAND[Program] execute successfully, takes 2.4 secs.
+[Debug] [2023-11-14 23:38:08] End to send programming cmd.
+[Debug] [2023-11-14 23:39:38] Begin to send programming cmd...
+[Debug] [2023-11-14 23:39:38] Send RPC:7
+[Debug] [2023-11-14 23:39:38] Begin to send program data.
+[Debug] [2023-11-14 23:39:38] End to send program data.
+[Debug] [2023-11-14 23:39:38] Send cmd [Program:20002] OK
+[Debug] [2023-11-14 23:39:38] The value of Progress is 6
+[Debug] [2023-11-14 23:39:39] The value of Progress is 10
+[Debug] [2023-11-14 23:39:39] The value of Progress is 15
+[Debug] [2023-11-14 23:39:39] The value of Progress is 20
+[Debug] [2023-11-14 23:39:39] The value of Progress is 25
+[Debug] [2023-11-14 23:39:39] The value of Progress is 30
+[Debug] [2023-11-14 23:39:39] The value of Progress is 35
+[Debug] [2023-11-14 23:39:39] The value of Progress is 40
+[Debug] [2023-11-14 23:39:39] The value of Progress is 45
+[Debug] [2023-11-14 23:39:39] The value of Progress is 50
+[Debug] [2023-11-14 23:39:39] The value of Progress is 55
+[Debug] [2023-11-14 23:39:39] The value of Progress is 60
+[Debug] [2023-11-14 23:39:40] The value of Progress is 65
+[Debug] [2023-11-14 23:39:40] The value of Progress is 70
+[Debug] [2023-11-14 23:39:40] The value of Progress is 75
+[Debug] [2023-11-14 23:39:40] The value of Progress is 80
+[Debug] [2023-11-14 23:39:40] The value of Progress is 85
+[Debug] [2023-11-14 23:39:40] The value of Progress is 90
+[Debug] [2023-11-14 23:39:40] The value of Progress is 95
+[Debug] [2023-11-14 23:39:40] The value of Progress is 100
+[Debug] [2023-11-14 23:39:40] COMMAND[Program] execute successfully, takes 2.4 secs.
+[Debug] [2023-11-14 23:39:40] End to send programming cmd.
+[Info] [2023-11-14 23:43:43] /***************************End Configration***************************/
+[Info] [2023-11-14 23:51:16] /***************************Start Configuration***************************/
+[Info] [2023-11-14 23:51:16] Path: D:/pango/PDS_2022.1/bin
+[Info] [2023-11-14 23:51:16] Version: 99559
+[Info] [2023-11-14 23:51:17] Current Path: D:/pango_projection/ziguang
+[Info] [2023-11-14 23:51:17] PDS Dir Path: D:/pango_projection/ziguang
+[Info] [2023-11-14 23:51:19] Configuration is not connect with server. connect first then scan chain.
+[Debug] [2023-11-14 23:51:19] Client Local host name:DESKTOP-AN3SH4R
+[Debug] [2023-11-14 23:51:19] Client Local Address:192.168.1.102
+[Debug] [2023-11-14 23:51:19] Client Local Address:192.168.43.68
+[Debug] [2023-11-14 23:51:19] Server Address:127.0.0.1, Port:65420
+[Info] [2023-11-14 23:51:19] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2023-11-14 23:51:19] Finish.
+[Info] [2023-11-14 23:51:19] Connect server succeeded
+[Debug] [2023-11-14 23:51:19] Send RPC:1
+[Debug] [2023-11-14 23:51:19] Send cmd [check version information:40005] OK
+[Debug] [2023-11-14 23:51:20] Send RPC:2
+[Debug] [2023-11-14 23:51:20] Send cmd [get_cable_paras:40011] OK
+[Debug] [2023-11-14 23:51:20] Begin to send initialize chain cmd...
+[Debug] [2023-11-14 23:51:20] Send RPC:3
+[Debug] [2023-11-14 23:51:20] Send cmd [Open config cable:20001] OK
+[Debug] [2023-11-14 23:51:20] End to send initialize chain cmd.
+[Debug] [2023-11-14 23:51:20] COMMAND[check version information] execute successfully, takes 0.7 secs.
+[Debug] [2023-11-14 23:51:21] COMMAND[get_cable_paras] execute successfully, takes 1.3 secs.
+[Debug] [2023-11-14 23:51:22] begin the exec of open cable cmd...
+[Debug] [2023-11-14 23:51:22] Begin to deal with chain from server...
+[Debug] [2023-11-14 23:51:22] Begin to set user chain...
+[Debug] [2023-11-14 23:51:22] End to set user chain.
+[Debug] [2023-11-14 23:51:22] Begin to update graphic item and tree item ...
+[Debug] [2023-11-14 23:51:22] End to update graphic item and tree item ...
+[Info] [2023-11-14 23:51:24] set OpenLastPath: D:/pango_projection/ziguang/generate_bitstream/top.sbit
+[Debug] [2023-11-14 23:51:24] begin to get device info from CFG file...
+[Debug] [2023-11-14 23:51:24] end to get device info from CFG file...
+[Debug] [2023-11-14 23:51:24] Begin to update graphic item and tree item ...
+[Debug] [2023-11-14 23:51:24] End to update graphic item and tree item ...
+[Debug] [2023-11-14 23:51:24] End to deal wiht chain from server.
+[Debug] [2023-11-14 23:51:24] end the exec of open cable cmd.
+[Debug] [2023-11-14 23:51:24] COMMAND[Open config cable] execute successfully, takes 3.8 secs.
+[Debug] [2023-11-14 23:51:26] Begin to send programming cmd...
+[Debug] [2023-11-14 23:51:26] Send RPC:4
+[Debug] [2023-11-14 23:51:26] Begin to send program data.
+[Debug] [2023-11-14 23:51:26] End to send program data.
+[Debug] [2023-11-14 23:51:26] Send cmd [Program:20002] OK
+[Debug] [2023-11-14 23:51:26] The value of Progress is 6
+[Debug] [2023-11-14 23:51:26] The value of Progress is 10
+[Debug] [2023-11-14 23:51:26] The value of Progress is 15
+[Debug] [2023-11-14 23:51:26] The value of Progress is 20
+[Debug] [2023-11-14 23:51:26] The value of Progress is 25
+[Debug] [2023-11-14 23:51:26] The value of Progress is 30
+[Debug] [2023-11-14 23:51:26] The value of Progress is 35
+[Debug] [2023-11-14 23:51:27] The value of Progress is 40
+[Debug] [2023-11-14 23:51:27] The value of Progress is 45
+[Debug] [2023-11-14 23:51:27] The value of Progress is 50
+[Debug] [2023-11-14 23:51:27] The value of Progress is 55
+[Debug] [2023-11-14 23:51:27] The value of Progress is 60
+[Debug] [2023-11-14 23:51:27] The value of Progress is 65
+[Debug] [2023-11-14 23:51:27] The value of Progress is 70
+[Debug] [2023-11-14 23:51:27] The value of Progress is 75
+[Debug] [2023-11-14 23:51:27] The value of Progress is 80
+[Debug] [2023-11-14 23:51:27] The value of Progress is 85
+[Debug] [2023-11-14 23:51:27] The value of Progress is 90
+[Debug] [2023-11-14 23:51:28] The value of Progress is 95
+[Debug] [2023-11-14 23:51:28] The value of Progress is 100
+[Debug] [2023-11-14 23:51:28] COMMAND[Program] execute successfully, takes 2.4 secs.
+[Debug] [2023-11-14 23:51:28] End to send programming cmd.
+[Info] [2023-11-15 04:01:07] /***************************End Configration***************************/
